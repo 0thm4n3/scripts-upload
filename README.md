@@ -1,2 +1,2 @@
-# scripts-upload
-ham-sec is simple script which upload Files from Compuet To domain Directory.
+# scripts uploads
+A simple scripts which upload Files from Compuet To domain Directory.
